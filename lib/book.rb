@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 class Book
 
@@ -39,3 +40,14 @@ class Book
        puts  "Flipping the page...wow, you read fast!"
     end
 end
+=======
+class Book 
+  
+  def initialize(title)
+    
+  end
+  
+  
+  
+end 
+>>>>>>> d0fcd38b3dc224a9163edded4708761a73afe1b2
